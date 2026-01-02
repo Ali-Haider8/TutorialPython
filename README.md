@@ -12,6 +12,12 @@ I am currently following a Python course, and in this repository I:
 - Practical exercises
 - Code written while learning Python step by step
 
+## 🗓️ Learning Start Date
+This learning journey officially started on:
+
+**📅 January 03, 2026**  
+**⏰ 12:00 AM**
+
 ## 🎯 Purpose
 The main goal of this repository is to **document my Python learning journey** in a practical and organized way.
 
