@@ -13,9 +13,6 @@ A practical repository for learning **Python programming** through hands-on prac
 👨‍🏫 **Dr. Hussein Alrubaye**  
 🎞️ YouTube Playlist
 
-## 🗓️ Learning Start Date
-📅 **January 03, 2026**  
-⏰ **12 AM**
+> *📅 **Learning Start Date — January 03, 2026***
 
-## 🎯 Purpose
-🎯 To organize Python learning examples and reference code.
+🎯 **Purpose:** To organize Python learning examples and reference code.
